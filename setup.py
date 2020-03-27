@@ -31,6 +31,7 @@ setuptools.setup(
         'numpy',
         'pybedtools',
         'pysam',
+        'biopython',
    ],
     extras_require={
         'docs': ['sphinx_rtd_theme'],
